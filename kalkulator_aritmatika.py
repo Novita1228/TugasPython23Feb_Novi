@@ -181,7 +181,7 @@ def menu_kalkulator_aritmatika(simpan_riwayat):
         print("1. Operasi Dasar")
         print("2. Operasi Ilmiah")
         print("3. Ekspresi Berantai")
-        print("0. Kembali")
+        print("0. Kembali ")
         pilih = input("Pilih: ").strip()
         try:
             if pilih == '1':
